@@ -15,7 +15,7 @@ export default () => {
                 params: {
                     limit: 50, //?limit=50
                     term: searchTerm, //make no mistake, YELP API uses TERM
-                    location: 'san jose'
+                    location: 'gainesville'
                     //location
                     //term
                 }
